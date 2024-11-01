@@ -1,18 +1,14 @@
 ### Sergei Shutov
 
 ### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+- Python
+- C/C++
 
 ### Technologies
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
+- PyTorch/TensorFlow
+- ONNX/TensorRT/DeepStream
+- Docker
+- Windows/Linux
 
 <!--
 **stopmosk/stopmosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
