@@ -5,6 +5,7 @@
 - C/C++
 
 ### Technologies
+- OpenCV
 - PyTorch/TensorFlow
 - ONNX/TensorRT/DeepStream
 - Docker
